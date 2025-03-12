@@ -1,3 +1,3 @@
 # onlineBank
-a bank using java and mysql
+a bank using java and mysql.
 the datebase ignored
